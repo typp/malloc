@@ -1,0 +1,11 @@
+mouli
+*.out
+main.c
+*.so
+*.o
+*~
+\#*\#
+.\#*
+.*.swp
+*.vim
+.vimrc
